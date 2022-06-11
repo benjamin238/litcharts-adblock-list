@@ -1,0 +1,18 @@
+[Adblock Plus 2.0]
+! Title: LitCharts Filter List
+! Expires: 7 days (update frequency)
+! Last modified: 11 June 2022
+! Description: Filter list to remove distractions on litcharts.com
+! Homepage: https://github.com/benjamin238/litcharts-adblock-list
+! Licence: https://github.com/benjamin238/litcharts-adblock-list/blob/master/LICENSE
+!
+! GitHub issues: https://github.com/benjamin238/litcharts-adblock-list/issues
+! GitHub pull requests: https://github.com/benjamin238/litcharts-adblock-list/pulls
+!
+www.litcharts.com##.stretch-left-promo
+www.litcharts.com##.sidebar__inner.right-sidebar
+www.litcharts.com##.user-iama
+www.litcharts.com##.banner-promo
+www.litcharts.com##.hidden-sm.hidden-xs.upgrade-container
+www.litcharts.com##.lc-banner.large-viewport.js-te-distance-learning-banner.distance-learning-promo--lit-guide.distance-learning-promo
+www.litcharts.com##.layout-wrapper-2018__column--right-rail.layout-wrapper-2018__column
